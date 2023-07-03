@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/menitor-task/static/css/main.1ea87597.css",
+    "main.js": "/menitor-task/static/js/main.df50f877.js",
+    "static/js/787.15086764.chunk.js": "/menitor-task/static/js/787.15086764.chunk.js",
+    "static/media/65fc0ec8-4038-479d-a6af-952c0e671f57.jpg": "/menitor-task/static/media/65fc0ec8-4038-479d-a6af-952c0e671f57.3d626383c814f45c63ec.jpg",
+    "index.html": "/menitor-task/index.html",
+    "main.1ea87597.css.map": "/menitor-task/static/css/main.1ea87597.css.map",
+    "main.df50f877.js.map": "/menitor-task/static/js/main.df50f877.js.map",
+    "787.15086764.chunk.js.map": "/menitor-task/static/js/787.15086764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea87597.css",
+    "static/js/main.df50f877.js"
+  ]
+}
